@@ -18,9 +18,10 @@ Bu projede insan hareketlerini sınıflandırmak için birden fazla makine öğr
 4. **Rastgele Orman (Random Forest)**
 5. **Destek Vektör Makinesi (SVM)**
 
-Her bir model,  sensör verilerinden çıkartılan özelliklerle eğitilmiş ve doğrulama sonuçları, test verileri kullanılarak değerlendirilmiştir. Bu modellerin performansı doğruluk, precision (doğruluk), recall (duyarlılık) ve F1-skore gibi metriklerle ölçülmüştür.
+Her bir model,  sensör verilerinden çıkartılan özelliklerle eğitilmiş ve doğrulama sonuçları, test verileri kullanılarak değerlendirilmiştir. Bu modellerin performansı doğruluk, precision (doğruluk), recall (duyarlılık) ve F1-score gibi metriklerle ölçülmüştür.
 
 ## Sonuçlar
+
 | Model           | Test Doğruluğu | Eğitim Doğruluğu | Precision     | Recall        | F1-Skoru      |
 |-----------------|----------------|------------------|---------------|---------------|---------------|
 | KNN             | 0.99987        | 0.99997          | 0.99987       | 0.99987       | 0.99987       |
